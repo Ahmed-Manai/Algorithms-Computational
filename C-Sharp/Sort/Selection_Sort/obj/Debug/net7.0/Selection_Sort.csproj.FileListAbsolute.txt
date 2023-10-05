@@ -1,0 +1,15 @@
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/obj/Debug/net7.0/Selection_Sort.csproj.AssemblyReference.cache
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/obj/Debug/net7.0/Selection_Sort.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/obj/Debug/net7.0/Selection_Sort.AssemblyInfoInputs.cache
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/obj/Debug/net7.0/Selection_Sort.AssemblyInfo.cs
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/obj/Debug/net7.0/Selection_Sort.csproj.CoreCompileInputs.cache
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/bin/Debug/net7.0/Selection_Sort
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/bin/Debug/net7.0/Selection_Sort.deps.json
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/bin/Debug/net7.0/Selection_Sort.runtimeconfig.json
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/bin/Debug/net7.0/Selection_Sort.dll
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/bin/Debug/net7.0/Selection_Sort.pdb
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/obj/Debug/net7.0/Selection_Sort.dll
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/obj/Debug/net7.0/refint/Selection_Sort.dll
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/obj/Debug/net7.0/Selection_Sort.pdb
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/obj/Debug/net7.0/Selection_Sort.genruntimeconfig.cache
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Selection_Sort/obj/Debug/net7.0/ref/Selection_Sort.dll

@@ -1,0 +1,15 @@
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/bin/Debug/net7.0/Bubble_Sort
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/bin/Debug/net7.0/Bubble_Sort.deps.json
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/bin/Debug/net7.0/Bubble_Sort.runtimeconfig.json
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/bin/Debug/net7.0/Bubble_Sort.dll
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/bin/Debug/net7.0/Bubble_Sort.pdb
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/obj/Debug/net7.0/Bubble_Sort.csproj.AssemblyReference.cache
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/obj/Debug/net7.0/Bubble_Sort.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/obj/Debug/net7.0/Bubble_Sort.AssemblyInfoInputs.cache
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/obj/Debug/net7.0/Bubble_Sort.AssemblyInfo.cs
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/obj/Debug/net7.0/Bubble_Sort.csproj.CoreCompileInputs.cache
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/obj/Debug/net7.0/Bubble_Sort.dll
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/obj/Debug/net7.0/refint/Bubble_Sort.dll
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/obj/Debug/net7.0/Bubble_Sort.pdb
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/obj/Debug/net7.0/Bubble_Sort.genruntimeconfig.cache
+/workspaces/Algorithms-Computational/C-Sharp/Sort/Bubble_Sort/obj/Debug/net7.0/ref/Bubble_Sort.dll
